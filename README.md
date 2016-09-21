@@ -14,7 +14,7 @@
 
 `buku` is a powerful bookmark management utility written in Python3 and SQLite3. When I started writing it, I couldn't find a flexible cmdline solution with a private, portable, merge-able database along with browser integration. Hence, `Buku` (after my son's nickname).
 
-`buku` can handle piped input, which lets you combine it with `xsel` (on Linux) or `pbpaste` (on Mac) and add bookmarks from anywhere without touching the terminal. Ref: [buku & xsel: add selected or copied URL as bookmark](http://tuxdiary.com/2016/03/26/buku-xsel/)
+`buku` can handle piped input, which lets you combine it with `xsel` (on Linux) or `pbpaste` (on Mac) and add bookmarks from anywhere without touching the terminal. Ref: [buku & xsel: add selected or copied URL as bookmark](https://tuxtricks.wordpress.com/2016/09/01/buku-xsel/)
 
 `buku` has a [rofi frontend](https://github.com/carnager/buku_run) written by Rasmus Steinke.
 
